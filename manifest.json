@@ -1,1 +1,15 @@
-
+{
+  "serverVersion": 1,
+  "minimumAppVersion": "0.4",
+  "lastUpdate": "2026-07-11",
+  "guides": [
+    {
+      "id": "Esp-iPhone",
+      "title": "Especificaciones de iPhones",
+      "category": "Especificaciones de dispositivos Apple",
+      "version": 1,
+      "zip": "esp001.zip",
+      "updatedAt": "2026-07-11"
+    }
+  ]
+}
