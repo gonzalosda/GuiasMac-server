@@ -28,14 +28,6 @@
       "updatedAt": "2026-07-12"
     },
     {
-    "id": "Esp-Mac",
-      "title": "Especificaciones de Mac",
-      "category": "Especificaciones de dispositivos Apple",
-      "version": 1,
-      "zip": "esp003.zip",
-      "updatedAt": "2026-07-12"
-    },
-    {
     "id": "SFT-Mac",
       "title": "Reinstalar MacOS",
       "category": "Software",
