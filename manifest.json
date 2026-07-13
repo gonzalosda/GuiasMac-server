@@ -18,6 +18,84 @@
       "version": 1,
       "zip": "esp002.zip",
       "updatedAt": "2026-07-12"
+    },
+    {
+    "id": "Esp-Mac",
+      "title": "Especificaciones de Mac",
+      "category": "Especificaciones de dispositivos Apple",
+      "version": 1,
+      "zip": "esp003.zip",
+      "updatedAt": "2026-07-12"
+    },
+    {
+    "id": "Esp-Mac",
+      "title": "Especificaciones de Mac",
+      "category": "Especificaciones de dispositivos Apple",
+      "version": 1,
+      "zip": "esp003.zip",
+      "updatedAt": "2026-07-12"
+    }
+    },
+    {
+    "id": "SFT-Mac",
+      "title": "Reinstalar MacOS",
+      "category": "Software",
+      "version": 1,
+      "zip": "sft001.zip",
+      "updatedAt": "2026-07-12"
+    }
+    },
+    {
+    "id": "SFT-Mac",
+      "title": "Instalar Windows",
+      "category": "Software",
+      "version": 1,
+      "zip": "sft002.zip",
+      "updatedAt": "2026-07-12"
+    }
+    },
+    {
+    "id": "SFT-Mac",
+      "title": "Instalar Linux",
+      "category": "Software",
+      "version": 1,
+      "zip": "sft003.zip",
+      "updatedAt": "2026-07-12"
+    }
+    },
+    {
+    "id": "SFT-Mac",
+      "title": "Utilizar Recuperación",
+      "category": "Software",
+      "version": 1,
+      "zip": "sft004.zip",
+      "updatedAt": "2026-07-12"
+    }
+    },
+    {
+    "id": "HRD-Mac",
+      "title": "Cambiar memoria RAM",
+      "category": "Hardware",
+      "version": 1,
+      "zip": "hrd001.zip",
+      "updatedAt": "2026-07-12"
+    }
+    },
+    {
+    "id": "HRD-Mac",
+      "title": "Cambiar ventilador",
+      "category": "Hardware",
+      "version": 1,
+      "zip": "hrd002.zip",
+      "updatedAt": "2026-07-12"
+      },
+    {
+    "id": "HRD-Mac",
+      "title": "Cambiar bateria",
+      "category": "Hardware",
+      "version": 1,
+      "zip": "hrd003.zip",
+      "updatedAt": "2026-07-12"
     }
   ]
 }
