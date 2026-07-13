@@ -28,7 +28,7 @@
       "updatedAt": "2026-07-12"
     },
     {
-    "id": "SFT-Mac",
+    "id": "SFT-MacOS",
       "title": "Reinstalar MacOS",
       "category": "Software",
       "version": 1,
@@ -36,7 +36,7 @@
       "updatedAt": "2026-07-12"
     },
     {
-    "id": "SFT-Mac",
+    "id": "SFT-Win",
       "title": "Instalar Windows",
       "category": "Software",
       "version": 1,
@@ -45,7 +45,7 @@
     
     },
     {
-    "id": "SFT-Mac",
+    "id": "SFT-Linux",
       "title": "Instalar Linux",
       "category": "Software",
       "version": 1,
@@ -54,7 +54,7 @@
     
     },
     {
-    "id": "SFT-Mac",
+    "id": "SFT-MacRec",
       "title": "Utilizar Recuperación",
       "category": "Software",
       "version": 1,
@@ -63,7 +63,7 @@
     
     },
     {
-    "id": "HRD-Mac",
+    "id": "HRD-RAM",
       "title": "Cambiar memoria RAM",
       "category": "Hardware",
       "version": 1,
@@ -72,7 +72,7 @@
     
     },
     {
-    "id": "HRD-Mac",
+    "id": "HRD-Ven",
       "title": "Cambiar ventilador",
       "category": "Hardware",
       "version": 1,
@@ -80,7 +80,7 @@
       "updatedAt": "2026-07-12"
     },
     {
-    "id": "HRD-Mac",
+    "id": "HRD-Bat",
       "title": "Cambiar bateria",
       "category": "Hardware",
       "version": 1,
