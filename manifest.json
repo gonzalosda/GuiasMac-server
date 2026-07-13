@@ -34,7 +34,6 @@
       "version": 1,
       "zip": "esp003.zip",
       "updatedAt": "2026-07-12"
-    }
     },
     {
     "id": "SFT-Mac",
@@ -43,7 +42,6 @@
       "version": 1,
       "zip": "sft001.zip",
       "updatedAt": "2026-07-12"
-    }
     },
     {
     "id": "SFT-Mac",
@@ -52,7 +50,7 @@
       "version": 1,
       "zip": "sft002.zip",
       "updatedAt": "2026-07-12"
-    }
+    
     },
     {
     "id": "SFT-Mac",
@@ -61,7 +59,7 @@
       "version": 1,
       "zip": "sft003.zip",
       "updatedAt": "2026-07-12"
-    }
+    
     },
     {
     "id": "SFT-Mac",
@@ -70,7 +68,7 @@
       "version": 1,
       "zip": "sft004.zip",
       "updatedAt": "2026-07-12"
-    }
+    
     },
     {
     "id": "HRD-Mac",
@@ -79,7 +77,7 @@
       "version": 1,
       "zip": "hrd001.zip",
       "updatedAt": "2026-07-12"
-    }
+    
     },
     {
     "id": "HRD-Mac",
@@ -88,7 +86,7 @@
       "version": 1,
       "zip": "hrd002.zip",
       "updatedAt": "2026-07-12"
-      },
+    },
     {
     "id": "HRD-Mac",
       "title": "Cambiar bateria",
