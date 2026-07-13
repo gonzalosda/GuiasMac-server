@@ -75,7 +75,7 @@
     "id": "HRD-Ven",
       "title": "Cambiar ventilador",
       "category": "Hardware",
-      "version": 1.0.1,
+      "version": 1,
       "zip": "hrd002.zip",
       "updatedAt": "2026-07-13"
     },
@@ -83,7 +83,7 @@
     "id": "HRD-Bat",
       "title": "Cambiar bateria",
       "category": "Hardware",
-      "version": 1.0.1,
+      "version": 1,
       "zip": "hrd003.zip",
       "updatedAt": "2026-07-13"
     }
