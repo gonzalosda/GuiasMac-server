@@ -1,2 +1,2 @@
 # GuiasMac-server
-sss
+**No disponible**
