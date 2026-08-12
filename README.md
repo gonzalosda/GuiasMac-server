@@ -1,4 +1,5 @@
 # GuiasMac-server
-    **No disponible**
-    Fallo de aplicación no a la venta
-    **Arreglo en la v1**
+    No disponible
+    Fallo de desarrollador 
+    Arreglo en la v1
+    Actual v0.5
