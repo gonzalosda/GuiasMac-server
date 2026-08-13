@@ -8,10 +8,12 @@
 	Idioma de aplicación: Español
 	Idioma de codigo de aplicación: Swift
 	Nombre de aplicación: Guias para mac
-	Disponiblidad de aplicación: No disponible 
+
     Fallo de desarollamiento
     Versiones actuales: App v0.5 Server v1
 
 Esto es un servidor para mejorar el funcionamiento de la aplicación GUIAS PARA MAC, que es una aplicación para iOS y iPadOS, esta previsto que este disponible en iOS/iPadOS 27
-
 	
+¿Disponible?
+
+	False
