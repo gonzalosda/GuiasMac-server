@@ -22,9 +22,10 @@ Fallo de desarollamiento
 Versiones actuales: App v0.5 Server v1
 
 ***Descripción***
-Esto es un servidor para mejorar el funcionamiento de la aplicación **GUIAS PARA MAC**, que es una aplicación para iOS y iPadOS, esta previsto que este disponible en iOS/iPadOS **27**
 
-Aqui esta todos los .zip utilizados para el buen funcionamiento de la propia app y, para los recursos de la app.
+Esto es un servidor para mejorar el funcionamiento de la aplicación **GUIAS PARA MAC**, que es una aplicación para iOS y iPadOS, para mirar guias de ordenadores MAC, esta previsto que este disponible en iOS/iPadOS **27/28**, o **Diciembre-Agosto 2027**
+
+Aqui, en este servidor, estan todos los recursos utilizados para el buen funcionamiento de dicha aplicación y, para los recursos de la aplicación 
 
 **¿Disponible?**
 
