@@ -3,11 +3,14 @@
     
 Servidor:
 Idioma de servidor: Español
+
 Idioma de codigo de servidor: archivos .json
 
 Aplicación:
 Idioma de aplicación: Español
+
 Idioma de codigo de aplicación: Swift
+
 Nombre de aplicación: Guias para mac
 
 **Fallos**
