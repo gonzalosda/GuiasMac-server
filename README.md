@@ -1,5 +1,5 @@
 # GuiasMac-server v1
-*Notas*
+**Notas**
     
 	Idioma de aplicación: Español
 	Idioma de codigo: Swift
