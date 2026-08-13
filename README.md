@@ -1,8 +1,8 @@
-# GuiasMac-server v0.5
+# GuiasMac-server v1
     
 	Idioma de aplicación: Español
 	Idioma de codigo: Swift
 	Disponiblidad: No disponible 
-    	Fallo de desarrollador, correccion en v1 app
-    Actual: v0.5
+    	Fallo de desarrollador, correccion en App v1 server v1
+    Actual: App v0.5 Server v1
 	
