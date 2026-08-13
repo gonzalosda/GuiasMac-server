@@ -7,6 +7,8 @@ Idioma de servidor: Español
 
 Idioma de codigo de servidor: archivos .json
 
+Versión actual: v1
+
 **Aplicación:**
 
 Idioma de aplicación: Español
@@ -15,11 +17,11 @@ Idioma de codigo de aplicación: Swift
 
 Nombre de aplicación: Guias para mac
 
+Versión actual: v0.5
+
 ***Fallos***
 
 Fallo de desarollamiento
-
-Versiones actuales: App v0.5 Server v1
 
 ***Descripción***
 
