@@ -1,19 +1,21 @@
 # GuiasMac-server v1
-**Notas**
+***Notas***
     
-Servidor:
+**Servidor:**
+
 Idioma de servidor: Español
 
 Idioma de codigo de servidor: archivos .json
 
-Aplicación:
+**Aplicación:**
+
 Idioma de aplicación: Español
 
 Idioma de codigo de aplicación: Swift
 
 Nombre de aplicación: Guias para mac
 
-**Fallos**
+***Fallos***
 
 Fallo de desarollamiento
 Versiones actuales: App v0.5 Server v1
