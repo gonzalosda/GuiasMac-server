@@ -1,7 +1,7 @@
 # GuiasMac-server			v1
-***Notas***
+****Notas****
     
-**Servidor:**
+***Servidor:***
 
 Idioma de servidor: Español
 
