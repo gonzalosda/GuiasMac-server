@@ -5,11 +5,19 @@
   "guides": [
     {
       "id": "Esp-iPhone",
-      "title": "Especificaciones de la serie de iPhone 17",
+      "title": "Especificaciones de iPhone",
       "category": "Especificaciones de dispositivos Apple",
       "version": 3,
       "zip": "esp001.zip",
-      "updatedAt": "2026-07-13" 
+      "updatedAt": "2026-09-20" 
+    }
+    {
+      "id": "Esp-iPhone",
+      "title": "Especificaciones de Mac's",
+      "category": "Especificaciones de dispositivos Apple",
+      "version": 1,
+      "zip": "esp003.zip",
+      "updatedAt": "2026-09-21" 
     }
   ]
 }
