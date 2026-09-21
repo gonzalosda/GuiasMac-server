@@ -18,6 +18,14 @@
       "version": 1,
       "zip": "esp003.zip",
       "updatedAt": "2026-09-21"
+    },
+    {
+      "id": "Esp-iPad",
+      "title": "Especificaciones de iPad",
+      "category": "Especificaciones de dispositivos Apple",
+      "version": 1,
+      "zip": "esp002.zip",
+      "updatedAt": "2026-09-21"
     }
   ]
 }
