@@ -1,7 +1,7 @@
 {
   "serverVersion": 1,
   "minimumAppVersion": "0.4",
-  "lastUpdate": "2026-07-11",
+  "lastUpdate": "2026-09-21",
   "guides": [
     {
       "id": "Esp-iPhone",
@@ -9,15 +9,15 @@
       "category": "Especificaciones de dispositivos Apple",
       "version": 3,
       "zip": "esp001.zip",
-      "updatedAt": "2026-09-20" 
+      "updatedAt": "2026-09-20"
     },
     {
       "id": "Esp-Mac",
-      "title": "Especificaciones de Mac's",
+      "title": "Especificaciones de Mac",
       "category": "Especificaciones de dispositivos Apple",
       "version": 1,
       "zip": "esp003.zip",
-      "updatedAt": "2026-09-21" 
+      "updatedAt": "2026-09-21"
     }
   ]
 }
