@@ -5,8 +5,9 @@
 
   "appStatus": {
     "message": "🟢 SERVIDOR OPERATIVO",
-    "show": true
-  },
+    "show": true,
+    "color": "green"
+}
   
   "guides": [
     {
